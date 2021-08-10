@@ -8,11 +8,11 @@ I am also working on creating a mutiplayer puzzle game!
 ### Past art! 🖌️
 I also do very simple and basic pixel art!
 * For Gunsnake
-! [Slime](images/gunsnake/GreenSlimeIdle.gif)
-! [Goblin](images/gunsnake/GoblinWentOnADiet.gif)
-! [Shield](images/gunsnake/Gobshield.gif)
-! [Archer](images/gunsnake/Archer.gif)
-! [Wizard](images/gunsnake/Wizard.gif)
+![Slime](images/gunsnake/GreenSlimeIdle.gif)
+![Goblin](images/gunsnake/GoblinWentOnADiet.gif)
+![Shield](images/gunsnake/Gobshield.gif)
+![Archer](images/gunsnake/Archer.gif)
+![Wizard](images/gunsnake/Wizard.gif)
 * For Not Malware
 
 ### Looking for 🔍
