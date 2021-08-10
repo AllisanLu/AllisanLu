@@ -15,9 +15,9 @@ I also do very simple and basic pixel art!
       ![Wizard](images/gunsnake/Wizard.gif)
 * For Not Malware
     * ![welcome](images/notmalware/welcomeConsole.gif)
-    * ![Ccleaner](images/notmalware/Ccleaner.gif)
+    * ![Ccleaner](images/notmalware/Ccleaner.png)
       ![Floppydisk](images/notmalware/floppydisk.gif)
-      ![Mcafee](images/notmalware/Mcafee.gif)
+      ![Mcafee](images/notmalware/Mcafee.png)
       ![Folder](images/notmalware/folder.gif)
 
 ### Looking for 🔍
