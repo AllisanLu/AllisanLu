@@ -1,7 +1,7 @@
 ## Hello! 🌱
+![dango](images/dango.gif)
 
 My name is Allison Lu, and I am a CS Major at Georgia Tech!
-------------------------------------------------------------------------![dango](images/dango.gif)
 
 ### Current Work 💻
 Currently, I am working on:
