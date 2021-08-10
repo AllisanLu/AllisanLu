@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hi there
 
 <!--
-**AllisanLu/AllisanLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 My name is Allison Lu, and I am a CS Major at Georgia Tech! 
+### Current Work 💻
+Currently, I am working on Dangoventure, a game created with Unity, and with Potato Batteries.
+I am also working on creating a mutiplayer puzzle game!
+
+### Past art! 🖌️
+I also do very simple and basic pixel art!
+* For Gunsnake
+     *  
+* For Not Malware
+
+### Looking for 🔍
+I am currently looking for a summer internship!
