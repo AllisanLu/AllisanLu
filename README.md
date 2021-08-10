@@ -1,5 +1,5 @@
 ## Hello! 🌱
-![dango](images/dango.gif = 20x20)
+![dango](images/dango.gif)
 
 My name is Allison Lu, and I am a CS Major at Georgia Tech!
 
