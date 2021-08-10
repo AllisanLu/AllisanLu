@@ -27,5 +27,5 @@ I also do very simple and basic pixel art!
 I am currently looking for a summer internship!
 
 ### 📫 How to reach me:
-email: allison.lu@gatech.edu
-phone: (404) 457-6618
+- email: allison.lu@gatech.edu
+- phone: (404) 457-6618
