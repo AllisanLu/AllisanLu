@@ -7,6 +7,7 @@ My name is Allison Lu, and I am a CS Major at Georgia Tech!
 Currently, I am working on:
 - Dangoventure, a game created with Unity, and with Potato Batteries
 - Quantum(?) (Name TBD), a multiplayer puzzle game created with Unity
+- Side by Side (VgDev)
 
 ### Past art! 🖌️
 I also do very simple and basic pixel art!
