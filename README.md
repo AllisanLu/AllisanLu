@@ -4,6 +4,7 @@
 My name is Allison Lu, and I am a CS Major at Georgia Tech! (If you see floating eyes, try looking in dark mode!)
 
 ### Current Work 💻
+I am currently a Data & Analytics Intern at Aprio
 Currently, I am working on:
 - Dangoventure, a game created with Unity, and with Potato Batteries
 - Quantum(?) (Name TBD), a multiplayer puzzle game created with Unity
@@ -25,7 +26,7 @@ I also do very simple and basic pixel art!
       ![Folder](images/notmalware/folder.gif)
 
 ### Looking for 🔍
-I am currently looking for a summer internship!
+I am currently looking for a summer of 2022 internship!
 
 ### 📫 How to reach me:
 - email: allison.lu@gatech.edu
