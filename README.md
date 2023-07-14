@@ -8,9 +8,6 @@ Currently, I am working on:
 - Quantum, a multiplayer puzzle game created with Unity
 - Slider (VGDev)
 
-### Looking for 🔍
-I am currently looking for a summer of 2023 internship!
-
 ### 📫 How to reach me:
 - email: allison.lu@gatech.edu
 - phone: (404) 457-6618
